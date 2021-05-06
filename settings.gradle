@@ -1,0 +1,2 @@
+rootProject.name='AV 360 game'
+include ':app'
